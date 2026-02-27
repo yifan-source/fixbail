@@ -10,7 +10,7 @@
         "url": "https://github.com/yifan-source/fixbail"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "../YifanModss.js",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
