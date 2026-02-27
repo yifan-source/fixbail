@@ -1,13 +1,13 @@
 {
-    "name": "anjaiedgar/BaileysV1",
+    "name": "@yifan-source/fixbail",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By Edgar",
+    "description": "WhatsApp Baileys By YifanModss",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/anjaiedgar/BaileysV1",
+    "homepage": "https://github.com/yifan-source/fixbail",
     "repository": {
-        "url": "https://github.com/anjaiedgar/BaileysV1"
+        "url": "https://github.com/yifan-source/fixbail"
     },
     "license": "MIT",
     "author": "7eppeli.pdf",
